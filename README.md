@@ -5,4 +5,4 @@
 ![picture](https://github.com/liyuaner/ActionMode/blob/master/pic/XML%201.png)
 ![picture](https://github.com/liyuaner/ActionMode/blob/master/pic/XML%202.png)
 ![picture](https://github.com/liyuaner/ActionMode/blob/master/pic/actionmode.png)
-![picture](https://github.com/liyuaner/ActionMode/blob/master/pic/UI.png)
+
